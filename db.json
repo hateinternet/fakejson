@@ -1,0 +1,18 @@
+{
+  "funkoGoods": [
+    { "id": "5268", "name": "Daedric Warrior", "collection": "Skyrim", "category": "Games", "price": 15, "image": "https://www.funko.com/craftmin/products/1436_3266_5268_Skyrim_Daedric_hires.jpg" },
+    { "id": "27854", "name": "Pickle Rick", "collection": "Rick & Morty", "category": "Animation", "price": 10, "image": "https://www.funko.com/craftmin/products/1436_3266_27854_RickMorty_PickleRick_GLAM_Hires.jpg" },
+    { "id": "8401", "name": "Harley Quinn", "collection": "Suicide Squad", "category": "Movies", "price": 10, "image": "https://www.funko.com/craftmin/products/1436_3266_8401_SS_Harley_hires.jpg" },
+    { "id": "12133-PX-1PP", "name": "Ciri", "collection": "Witcher", "category": "Games", "price": 49, "image": "https://www.funko.com/craftmin/products/1436_3266_12133_Witcher_Ciri_GLAM_HiRes.jpg" },
+    { "id": "5861", "name": "Voldemort", "collection": "Harry Potter", "category": "Movies", "price": 20, "image": "https://www.funko.com/craftmin/products/1436_3266_5861_HP_Voldemort_hires.jpg" },
+    { "id": "22621", "name": "Night King", "collection": "Game of Thrones", "category": "Television", "price": 25, "image": "https://www.funko.com/craftmin/products/1436_3266_22621_GOT_NightKing_SummerConvention_GLAM_HiRez.jpg" },
+    { "id": "14817-PX-1SG", "name": "Xenomorph", "collection": "Alien", "category": "Movies", "price": 15, "image": "https://www.funko.com/craftmin/products/1436_3266_14817_Alien_Covenant_bloody_xenomorph_GLAM_HiRes.jpg" },
+    { "id": "14319-PX-1V3", "name": "Tiny Tina", "collection": "Borderlands", "category": "Games", "price": 65, "image": "https://www.funko.com/craftmin/products/1436_3266_14319_Borderlands_TinyTina_POP_GLAM_HiRez.jpg" },
+    { "id": "13556-P6-1TM", "name": "Balrog", "collection": "Lord of the Rings", "category": "Movies", "price": 16, "image": "https://www.funko.com/craftmin/products/1436_3266_13556_LOTR_Balrog_POP_GLAM_HiRez.jpg" },
+    { "id": "13464-PX-1TC", "name": "King", "collection": "Tekken", "category": "Games", "price": 11, "image": "https://www.funko.com/craftmin/products/1436_3266_13464_TEKKEN_ARMOR_King_GLAM_HiRez.jpg" },
+    { "id": "14372-PX-1V8", "name": "Harry Hart", "collection": "Kingsman", "category": "Movies", "price": 18, "image": "https://www.funko.com/craftmin/products/1436_3266_14372_Kingsman_Harry_POP_GLAM_HiRes.jpg" },
+    { "id": "13768-PX-1U4", "name": "Hela", "collection": "Thor", "category": "Movies", "price": 8, "image": "https://www.funko.com/craftmin/products/1436_3266_13768_ThorRagnarok_Hela_POP_GLAM_HighRes.jpg" },
+    { "id": "14842-PX-1SE", "name": "Eric Cartman", "collection": "South Park", "category": "Animation", "price": 13, "image": "https://www.funko.com/craftmin/products/1436_3266_14842_SouthPark_CartmanClyde_GLAM_HighRes.jpg" },
+    { "id": "21392", "name": "Chewbacca", "collection": "Star Wars", "category": "Movies", "price": 14, "image": "https://www.funko.com/craftmin/products/1436_3266_21392_SWEP8_Chewbacca_POP_GLAM_HighRes_8d4d54283c2cfa6.jpg" }
+  ]
+}
